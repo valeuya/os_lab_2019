@@ -23,6 +23,7 @@
 132:I want to be the girl with the most cake
 137:This is what you call presidential cake up
 142:I light the candles and I cut the cake
+147:From "Up so Close" by Cake:
 149:I put my face down in the cake
 154:Back inside Sam, throw away your cake
 159:What's up? They all want the cake
@@ -62,8 +63,11 @@
 343:Some take just apple pie, some take just cake
 349:Happy birthday darling, I've no present, no fancy cake
 354:Vanilla fudge and wedding cake
+357:From "Sunshine Cake" by Frank Sinatra:
 359:We ought to bake a sunshine cake,
+362:From "Sunshine Cake" by Frank Sinatra:
 364:[We ought to bake a sunshine cake]
+367:From "Sunshine Cake" by Frank Sinatra:
 369:[So why not bake a sunshine cake,]
 374:I thought the world was sugar cake
 381:before the candles on a cake
@@ -87,8 +91,10 @@
 487:Now it's time to light another candle on the cake
 492:Why don't you take a stone and eat it just as if it were a cake
 497:It ain't hard to tell, you know I get cake
+500:From "The Wedding Cake" by Connie Francis:
 502:It all comes with the wedding cake
 507:But you take the cake
+512:From "I Live In A Cake" by Nofx:
 514:I live in a cake,
 519:I make spaghetti, she brings cake
 526:I had to leave before they even cut the cake.
@@ -113,17 +119,21 @@
 630:Sweeter than a buckwheat cake
 636:About the time the couple cut the cake
 642:It's time to get wise, rise, and cut the cake
+645:From "Daria" by Cake:
 647:iceing on a cake
 652:Carved our initials on top of the cake
+655:From "Here On Earth (I'll Have My Cake)" by Crash Test Dummies:
 657:Here on earth I'll have my cake
 662:I'm the candles on you're cake
 667:when do i jump out of the cake
 672:famous for his cake
 679:Where we're all gonna have a cake.
+683:From "Chocolate Cake" by Crowded House:
 685:Can I have another piece of chocolate cake?
 692:Why my homeys ain't get that cake
 698:Half baked, eatin' ganja cake
 705:Janey's fingers were in the cake
+710:Come Up Off Of My Cake
 716:If I told you what I make, everytime I flip a cake
 721:i lived in a cake
 729:Lost in coma and covered in cake.
@@ -131,6 +141,9 @@
 740:Claiming the got backs but they never share their cake
 745:Give me a cake
 750:And a piece of the wedding cake
+755:From "Cake" by Lloyd Banks:
+757:to get the money the MONEY the MONEY the MONEY the CAKE
+762:4-fizzy, I'm in the loop wit Biggie, piece of fruit CAKE
 767:And Janey's fingers were in the cake
 772:Ain't no piece of cake
 777:it hasn't always been a piece of cake
@@ -155,6 +168,7 @@
 884:spaghetti and cookies and cake
 890:He said you try it, I said it's a piece of cake
 895:Too much sugar and too much cake
+898:From "Birthday Cake" by Cibo Matto:
 900:Are you made or broken by the birthday cake?
 905:Thirty-nine (39) candles burnt out on a cake
 912:Sweet carob rice cake
@@ -165,6 +179,7 @@
 939:Man, this really takes the cake
 946:You bake my cake
 953:Cutting the cake
+956:From "Caribou and Cake" by Scarling:
 958:I'm cake
 963:see the sugar bowl do a tootsi roll and the bad devils food cake
 968:I wanna have my piece of cake
@@ -182,6 +197,7 @@
 1036:But your kiss is sweeter than the cake
 1041:My heart, my soul, my candy, my cake
 1048:I'm a bake a hater cake today
+1053:Baking a, baking a CAKE.
 1058:seems like a cake
 1063:Being that we ugly, it ain't a piece of cake.
 1068:I'm selfish got to have the pie and the whole cake
@@ -190,6 +206,7 @@
 1083:Dark, rich and thick like a fresh baked cake
 1088:I'm craving the taste of the cake
 1093:Where you goin'? Where I'm goin? Finna get the cake!/
+1096:From "If I Knew You Were Comin' I'd've Baked a Cake" by Various Artists:
 1098:If I knew you were comin' I'd've baked a cake
 1106:Ate up all of the wedding cake, Uh-huh.
 1112:Eat it like a piece of cake
@@ -199,6 +216,7 @@
 1133:You'll miss my carrot cake
 1139:I love you like a fat kid love cake
 1145:First they brought in tay and cake
+1151:This is what you call, 'Presidential Cake Up'
 1156:Antagonizing pressure is the icing on the cake
 1162:I eat my cake
 1167:The kids won't eat my charcoal cake
@@ -229,6 +247,7 @@
 1305:We smash for cake
 1310:In an old age pension-less cake
 1315:Vanilla fudge and wedding cake
+1320:U Know U Can'T Make Chocolate Cake
 1325:(You are just the icing to put on my cake)
 1330:Eat a crocodile cake
 1335:You have let us eat the cake
@@ -238,7 +257,9 @@
 1355:ha get your cake up
 1360:Get cha cake up
 1365:Somebody's been digging 'round in my cake.
+1367:From "Strawberry Cake" by Johnny Cash:
 1370:When a waiter brought out a big strawberry cake
+1372:From "Strawberry Cake" by Johnny Cash:
 1375:And I quietly finished my strawberry cake
 1380:There's too much motherfuckin' paper to cake up
 1385:stake and a layer cake.
@@ -246,8 +267,11 @@
 1398:Black the colour icing on our cake
 1405:and janey's fingers were in the cake
 1412:The layers on the cake
+1415:From "Piece Of Cake" by Jethro Tull:
 1418:I'm a cup of hot coffee, I'm a piece of cake.
+1420:From "Piece Of Cake" by Jethro Tull:
 1423:I can fill your larder, I'm a piece of cake.
+1425:From "Piece Of Cake" by Jethro Tull:
 1428:you can bowl me over, I'm a piece of cake.
 1434:Been piece of cake
 1439:He said don't worry it's a piece of cake
@@ -258,11 +282,21 @@
 1466:All I found was that old piece of our wedding cake.
 1471:The few hours off to eat wedding cake
 1476:But I hear tell someone's been diggin round in my cake
+1478:From "Disaster Cake" by Cher:
+1482:Is called Disaster Cake
+1484:From "Disaster Cake" by Cher:
+1488:Is for Disaster Cake
+1490:From "Disaster Cake" by Cher:
+1494:Are from Disaster Cake
+1496:From "The Wedding Cake" by Connie Francis:
 1500:Come with the wedding cake
+1502:From "The Wedding Cake" by Connie Francis:
 1505:Comes with the wedding cake
 1511:a piece of cake
 1517:Red Velvet cake
+1519:From "The Wedding Cake" by Connie Smith:
 1524:Joy and tears come with the wedding cake.
+1526:From "The Wedding Cake" by Connie Smith:
 1529:It all comes with the wedding cake...
 1534:I eat it up and take the cake
 1539:In time I've earned my cake,
@@ -318,6 +352,7 @@
 1809:Luck seemed to serve us a slice of life's cake
 1814:Baby don't stop, take it to the top, eat it like a piece of cake
 1819:She might pop out of the top of a birthday cake
+1821:From "The Wedding Cake" by Jeannie C. Riley:
 1826:Come with the wedding cake.
 1832:I didn't know this was the place I'd get my piece of the cake
 1838:Or feed you poison birthday cake
@@ -340,6 +375,7 @@
 1920:Ice cream and cake.
 1925:Whether we have not or have cake
 1931:For a slice of cake
+1934:From "Birthday Cake" by Cibo Matto:
 1937:Are you made or broken by the birthday cake?
 1944:And I share her love of wine and cake
 1949:Same knife that cuts your throat divides the cake
@@ -349,6 +385,7 @@
 1971:and the brook valley man dem need a slice a di cake
 1976:And a red-head freckled face blows out the candles on his birthday cake
 1981:Cutting the cake
+1986:Yo Shoes Yo Clothes && Even Yo Cake
 1991:Becomes a piece of cake
 1996:But your friends are hungry so just cut the stupid cake.
 2001:You just keep on trying till you run out of cake
@@ -358,7 +395,9 @@
 2022:It's a'one big... one big... one big... cake!
 2027:Like dropping out of weight while you're trying to have your cake
 2032:You know it's all for the cake, yeah it's all for the cake
+2034:From "Taste The Cake" by Ray Koefoed:
 2037:That's when the voice began to barter with the promise of cake.
+2039:From "Taste The Cake" by Ray Koefoed:
 2044:She could almost taste the cake.
 2049:on my birthday give me a burger not a cake
 2054:Love burns all and hate takes the cake
