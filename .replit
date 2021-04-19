@@ -1,0 +1,2 @@
+language = "bash"
+run = "./parallel_min_max --seed 3 --array_size 20 --pnum 3 --timeout 10"

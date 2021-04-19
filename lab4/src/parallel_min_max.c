@@ -128,10 +128,9 @@ int main(int argc, char **argv) {
 
     int pipefd[2];
     pipe(pipefd);
-    if (timeout != -1){
-        signal( SIGALRM, handle_alarm );
-        alarm( timeout );
-    }
+
+    
+
     int n = array_size / pnum;
     pid_t currentPid[pnum];
 
@@ -186,30 +185,35 @@ int main(int argc, char **argv) {
         //printf("%d**",currentPid[i]);
         
         } 
-            else 
-            {
-            printf("Fork failed!\n");
-            return 1;
-            }
+        else 
+        {
+        printf("Fork failed!\n");
+        return 1;
+        }
+    }
+    if (timeout != -1){
+        signal( SIGALRM, handle_alarm );
+        alarm( timeout );
     }
 
     int status;
     while (active_child_processes > 0) {
-    // your code here
-    if (kill_flag == true){
-        printf("\nThe child processes is killing...");
-        for (int i =0; i<pnum; i++)
-            kill(currentPid[i], SIGKILL);
-        return 1;
-    }
-    else     printf("\nThe child processes is not killing...");
+      //printf("%d\n",kill_flag);
+      // your code here
+      if (kill_flag == true){
+          printf("\nThe child processes is killing...%d",kill_flag);
+          for (int i =0; i<pnum; i++)
+              kill(currentPid[i], SIGKILL); 
+      }
+      //else     printf("\nThe child processes is not killing...");
 
- 
-    while (waitpid(-1, &status, WNOHANG) > 0) 
-    {
-        
-        active_child_processes -= 1;
-    }}
+  
+      while (waitpid(-1, &status, WNOHANG) > 0) 
+      {
+          printf("%d ", active_child_processes);
+          active_child_processes -= 1;
+      }
+    }
  
   struct MinMax min_max;
   min_max.min = INT_MAX;
